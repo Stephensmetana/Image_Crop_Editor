@@ -1,0 +1,53 @@
+TODO List for ICE (Image Crop Editor) App:
+
+1. **Basic Setup:**
+   - [x] Set up project structure
+   - [x] Create `app.py` as the main entry point
+   - [x] Implement a simple "Hello, Image Crop Editor!" message
+
+2. **UI Development:**
+   - [x] Design a basic user interface with PyQt
+   - [x] Create a window with image display
+   - [x] Implement image navigating with arrow keys
+   - [x] Implement zoom with scroll wheel
+   - [ ] Implement a resizable crop tool
+   - [ ] Add visualization for the cropped area
+
+3. **Image Handling:**
+   - [ ] Integrate Pillow for image loading and manipulation
+   - [ ] Allow users to browse and select images
+   - [ ] Implement image cropping functionality
+
+4. **User Interaction:**
+   - [ ] Enable arrow keys for navigating through images
+   - [ ] Implement a side menu for preset aspect ratios
+   - [ ] Add metadata editing textbox on the right panel
+
+5. **Testing:**
+   - [ ] Write unit tests for critical functions
+   - [ ] Test UI components and user interactions
+   - [ ] Ensure the application handles edge cases gracefully
+
+6. **Documentation:**
+   - [ ] Write README.md with project overview and setup instructions
+   - [ ] Add inline comments for code documentation
+   - [ ] Create Sphinx-based documentation for the project
+
+7. **Polishing and Refinement:**
+   - [ ] Enhance the UI for a polished look and feel
+   - [ ] Optimize code for performance and readability
+   - [ ] Consider accessibility and responsiveness
+
+8. **Release and Distribution:**
+   - [ ] Plan and execute releases with versioning
+   - [ ] Publish the application as an open-source tool
+   - [ ] Consider packaging options for distribution
+
+9. **Additional Features (Optional):**
+    - [ ] Implement image filters or enhancements
+    - [ ] Allow users to undo/redo crop actions
+    - [ ] Add support for multiple file formats
+
+10. **Resume and Portfolio:**
+    - [ ] Update resume with ICE project details
+    - [ ] Showcase ICE as an open-source project in your portfolio
